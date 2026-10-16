@@ -1,0 +1,17 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+!**/.env.example
+frontend/node_modules/
+frontend/dist/
+*.db
+*.sqlite
+*.sqlite3
+backend/RAW_recipes.csv
+backend/RAW_interactions.csv
+backend/PP_recipes.csv
+backend/PP_users.csv
